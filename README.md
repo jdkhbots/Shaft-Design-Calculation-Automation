@@ -41,22 +41,24 @@ The implementation is provided in a Jupyter Notebook format to allow clear prese
 <p align="center">
 
 - Using a question from; https://efficientengineer.com/shear-force-and-bending-moment-diagrams/
- <img src="imgur.com/5C4pxQo.png" height ="60%" width="70%"/>
+ <img src="https://imgur.com/G3fQn6l.png" height ="60%" width="70%"/>
 - Defining shaft geometry, supports, and applied loads in the notebook<br />
- <img src="imgur.com/a/ilqSr7F" height="60%" width="70%"/>
- <img src="https://imgur.com/a/uSsZRAU" height="60%" width="70%" alt="Input Definition"/>
+ <img src="https://imgur.com/HrtSfjY.png" height="60%" width="70%"/>
+ <img src="https://imgur.com/UHYGn9U.png" height="60%" width="70%" alt="Input Definition"/>
 <br />
 <br />
 
 - Automatic computation of reactions, shear force, and bending moment distributions<br/>
- <img src="https://imgur.com/a/VhDnLdn" height="60%" width="70%" alt="SFD and BMD Generation"/>
+<img src="https://imgur.com/nUKNbH5.png" height="60%" width="70%" alt="Computation of Reactions"/>
 <br />
 <br />
 
 - Generated shear force and bending moment diagrams<br />
-<img src="https://imgur.com/a/4cJUVam" height="60%" width="70%" alt="Shear Force Diagram"/>
-<img src="https://imgur.com/a/g6ecyzO" height="60%" width="70%" alt="Bending Moment Diagrams"/>
+<img src="https://imgur.com/K0KLWYu.png" height="60%" width="70%" alt="Shear Force Diagram"/>
+<img src="https://imgur.com/kEvPcZP.png" height="60%" width="70%" alt="Bending Moment Diagrams"/>
 <br />
+- Compare diagrams above to this from the page;
+<img src="https://imgur.com/17D0UaH.png" height ="60%" width="70%" alt="Solution From Web"/>
 <br />
 
 <b>
